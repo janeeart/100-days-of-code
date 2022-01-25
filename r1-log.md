@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Janée Artis
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on January 25, 2022.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Beginning the JS Algorithms and Data Structures certification course on freeCodeCamp.org to get reacquainted with JS. Starting with the Basic JS course, 22/113 complete.
 
 ### R1D2
